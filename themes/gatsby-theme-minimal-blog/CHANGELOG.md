@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.1.2
+
+### Patch Changes
+
+- [#750](https://github.com/LekoArts/gatsby-themes/pull/750) [`658668f`](https://github.com/LekoArts/gatsby-themes/commit/658668fc28142b8faf83405d75c04bacc1768ea5) Thanks [@renovate](https://github.com/apps/renovate)! - fix(deps): update minor and patch dependencies for gatsby-theme-minimal-blog
+
 ## 4.1.1
 
 ### Patch Changes
