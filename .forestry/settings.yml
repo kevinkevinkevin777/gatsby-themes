@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
-  label: Sidiebar
+  label: Sidebar
 - type: document
   path: ''
   label: Documents
